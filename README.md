@@ -10,7 +10,7 @@ This repository contains the Unity project responsible for game rendering, clien
 > **Development time:** 30 days
 > **Engine:** Unity 6 (6000.6.2f1)
 > **Render Pipeline:** Universal Render Pipeline (URP)
-> **Server:** C# / .NET 9 — [Krakovia Server Repository](https://github.com/Nnayuta/KrakoviaServer)
+> **Server:** C# / .NET 9 — [Krakovia Server Repository](https://github.com/wesdantas97/KrakoviaServer)
 
 ---
 
